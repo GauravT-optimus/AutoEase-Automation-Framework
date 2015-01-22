@@ -1,0 +1,28 @@
+* This is a Test automation framework project using  a java Maven Nature
+
+* How to use
+
+
+
+*Project Structure
+
+
+* TODO
+1. generalization of the object identifier with documentation of rules
+2. Stratgy for implementing the wait(All wait methods might reside inside the ExceptionHandle class)
+3. Implementation of the Log4j system
+4. Find out the solution for building the project from the command line using maven
+5. Write the sample plain english steps for Web App
+6. Done POC for implementing the pre-requisite for some particular test scenario for e.g. Resetting the database,
+Done some pre-test setup etc, and same for post-requsites
+7. Take a survey kind of thing on what kind of behavioural script they want
+8. Create customized test steps
+8. Visualize more things about implementation of this framework
+
+
+
+
+
+
+
+
